@@ -1,4 +1,4 @@
-### Hello,I'm Van (nick name is Sunny)👋
+### Hello,I'm Van (my nickname is Sunny)👋
 
 <!--
 **HoangThaoVan/HoangThaoVan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
