@@ -7,13 +7,12 @@
 
 
 ## I'm studying and working to become a bridge engineer, either a frontend developer or a backend developer!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
+- ✍ You can find my projects here <!-- [portfolio]-->
+- 🔭 I’m currently working on Fintech company.
+- 🌱 I’m currently learning Javascript and React<!-- 👯 I’m looking to collaborate on open source-->
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- ⚡ Fun fact: I can speak 4 languages ( Vietnamese,English,Japanese, a little Chinese)
 
 
 ### Talk with me, I am kinda awesome:
