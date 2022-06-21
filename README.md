@@ -10,8 +10,7 @@
 - ✍ You can find my projects here <!-- [portfolio]-->
 - 🔭 I’m currently working on Fintech company.
 - 🌱 I’m currently learning Javascript and React<!-- 👯 I’m looking to collaborate on open source-->
-- 💬 Ask me about ... Anything [Instargram](https://www.facebook.com/)
-- 
+- 💬 Ask me about ... Anything 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can speak 4 languages ( Vietnamese,English,Japanese, a little Chinese)
 
@@ -57,8 +56,8 @@
 
 </details>
 
-[website]: https://holistic-developer.com/
+<!--[website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[portfolio]: https://arsentieva.github.io/profile/-->
