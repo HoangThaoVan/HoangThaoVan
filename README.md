@@ -10,7 +10,7 @@
 - ✍ You can find my projects here <!-- [portfolio]-->
 - 🔭 I’m currently working on Fintech company.
 - 🌱 I’m currently learning Javascript and React<!-- 👯 I’m looking to collaborate on open source-->
-- 💬 Ask me about ... Anything [Instargram]((https://www.facebook.com/))
+- 💬 Ask me about ... Anything [Instargram](https://www.facebook.com/)
 - 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can speak 4 languages ( Vietnamese,English,Japanese, a little Chinese)
