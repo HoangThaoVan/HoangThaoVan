@@ -4,20 +4,10 @@
 **HoangThaoVan/HoangThaoVan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/HoangThaoVan/HoangThaoVan/blob/main/Image/code.gif" width="500" height="320" />
 <!--https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true-->
 ## I'm studying and working to become a bridge engineer, either a frontend developer or a backend developer!!
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
-- ✍ You can find my projects here <!-- [portfolio]-->
-- 
 - 🔭 I’m currently working on Fintech company.
-- 
 - 🌱 I’m currently learning Javascript and React<!-- 👯 I’m looking to collaborate on open source-->
 - 💬 Ask me about ... Anything 
 - 😄 Pronouns: She/Her
