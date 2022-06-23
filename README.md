@@ -6,7 +6,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/HoangThaoVan/HoangThaoVan/blob/main/Image/code.gif" width="500" height="320" />
 <!--https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true-->
-## I'm studying and working to become a bridge engineer, either a frontend developer or a backend developer!!
+## I'm studying and working to become a bridge engineer, either a frontend developer or a backend developer!!<br>
 - 🔭 I’m currently working on Fintech company.
 - 🌱 I’m currently learning Javascript and React<!-- 👯 I’m looking to collaborate on open source-->
 - 💬 Ask me about ... Anything 
