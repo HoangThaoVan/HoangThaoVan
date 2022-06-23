@@ -7,11 +7,11 @@
  <img align="right" alt="GIF" src="https://github.com/HoangThaoVan/HoangThaoVan/blob/main/Image/code.gif" width="500" height="320" />
 <!--https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true-->
 ## I'm studying and working to become a bridge engineer, either a frontend developer or a backend developer!!<br>
-- 🔭 I’m currently working on Fintech company.
-- 🌱 I’m currently learning Javascript and React<!-- 👯 I’m looking to collaborate on open source-->
-- 💬 Ask me about ... Anything 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I can speak 4 languages ( Vietnamese,English,Japanese, a little Chinese)
+- 🔭 I’m currently working on Fintech company.<br>
+- 🌱 I’m currently learning Javascript and React <br><!-- 👯 I’m looking to collaborate on open source-->
+- 💬 Ask me about ... Anything <br>
+- 😄 Pronouns: She/Her<br>
+- ⚡ Fun fact: I can speak 4 languages ( Vietnamese,English,Japanese, a little Chinese)<br>
 
 
 ### Talk with me, I am easy to talk to and a good listener.:
