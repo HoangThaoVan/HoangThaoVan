@@ -8,13 +8,13 @@
 <!--https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true-->
 ## I'm studying and working to become a bridge engineer, either a frontend developer or a backend developer!!<br>
 - 🔭 I’m currently working on Fintech company.<br>
-- 🌱 I’m currently learning Javascript and React <br><!-- 👯 I’m looking to collaborate on open source-->
+- 🌱 I’m currently learnin g hrefhttps://github.com/HoangThaoVan/HTML-CSS-Javascript Javascript, Python and React <br><!-- 👯 I’m looking to collaborate on open source-->
 - 💬 Ask me about ... Anything <br>
 - 😄 Pronouns: She/Her<br>
 - ⚡ Fun fact: I can speak 4 languages ( Vietnamese,English,Japanese, a little Chinese)<br>
 
-
-### Talk with me, I am easy to talk to and a good listener.:
+:
+### Talk with me, I am easy to talk to and a good listener:
 <!--[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
