@@ -6,7 +6,7 @@
 
  <img align="right" alt="GIF" src="https://github.com/HoangThaoVan/HoangThaoVan/blob/main/Image/code.gif" width="500" height="320" />
 <!--https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true-->
-## I'm studying and working to become a <a href=" https://hachinet.com/blogs/what-is-the-japanese-bridge-system-engineer" rel="nofollow"> bridge engineer</a>, either a frontend developer or a backend developer!!<br>
+## I'm studying and working to become a <a href=" https://hachinet.com/blogs/what-is-the-japanese-bridge-system-engineer"> bridge engineer</a>, either a frontend developer or a backend developer!!<br>
 - 🔭 I’m currently working on Fintech company.<br>
 - 🌱 I’m currently learning <a href="https://github.com/HoangThaoVan/HTML-CSS-Javascript">HTML-CSS-Javascript</a>, <a href="https://github.com/HoangThaoVan" rel="nofollow">Python</a> and React</a><br><!-- 👯 I’m looking to collaborate on open source-->
 - 💬 Ask me about ... Anything <br>
