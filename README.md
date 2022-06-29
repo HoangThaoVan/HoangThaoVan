@@ -6,9 +6,9 @@
 
  <img align="right" alt="GIF" src="https://github.com/HoangThaoVan/HoangThaoVan/blob/main/Image/code.gif" width="500" height="320" />
 <!--https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true-->
-## I'm studying and working to become a bridge engineer, either a frontend developer or a backend developer!!<br>
+## I'm studying and working to become a https://hachinet.com/blogs/what-is-the-japanese-bridge-system-engineer bridge engineer, either a frontend developer or a backend developer!!<br>
 - 🔭 I’m currently working on Fintech company.<br>
-- 🌱 I’m currently learnin g hrefhttps://github.com/HoangThaoVan/HTML-CSS-Javascript, Python and React <br><!-- 👯 I’m looking to collaborate on open source-->
+- 🌱 I’m currently learning <a href="https://github.com/HoangThaoVan/HTML-CSS-Javascript">HTML-CSS-Javascript</a>, <a href="https://github.com/HoangThaoVan" rel="nofollow">Python</a> and React</a><br><!-- 👯 I’m looking to collaborate on open source-->
 - 💬 Ask me about ... Anything <br>
 - 😄 Pronouns: She/Her<br>
 - ⚡ Fun fact: I can speak 4 languages ( Vietnamese,English,Japanese, a little Chinese)<br>
