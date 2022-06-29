@@ -8,7 +8,7 @@
 <!--https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true-->
 ## I'm studying and working to become a bridge engineer, either a frontend developer or a backend developer!!<br>
 - 🔭 I’m currently working on Fintech company.<br>
-- 🌱 I’m currently learnin g hrefhttps://github.com/HoangThaoVan/HTML-CSS-Javascript Javascript, Python and React <br><!-- 👯 I’m looking to collaborate on open source-->
+- 🌱 I’m currently learnin g hrefhttps://github.com/HoangThaoVan/HTML-CSS-Javascript, Python and React <br><!-- 👯 I’m looking to collaborate on open source-->
 - 💬 Ask me about ... Anything <br>
 - 😄 Pronouns: She/Her<br>
 - ⚡ Fun fact: I can speak 4 languages ( Vietnamese,English,Japanese, a little Chinese)<br>
@@ -32,7 +32,7 @@
 
 ---
 
-<details>
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Van Sunny's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HoangThaoVan&show_icons=true&hide_border=true" />
@@ -44,7 +44,7 @@
 
 <img align="left" alt="Van Sunny's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoangThaoVan" />
 
-</details>
+</details>-->
 
 <!--[website]: https://holistic-developer.com/
 [youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
